@@ -33,8 +33,7 @@ Clone the Repository:
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 
-**
-Open in Google Colab:**
+**Open in Google Colab:**
 
 Upload LLM_QA_System.ipynb to Google Colab.
 Alternatively, download the notebook and run it locally using Jupyter.
